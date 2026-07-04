@@ -13,7 +13,7 @@
 - 🇻🇳 I'm **Gia Bao**, from Vietnam.
 - 🎂 12 years old.
 - 💡 I enjoy turning ideas into real projects.
-- 🌱 Currently learning **Computer Science, Computer Graphics, Mathematics and Rust.**
+- 🌱 Currently learning **Computer Science, Computer Graphics, Mathematics and Rust**.
 - 🔭 Currently working on **ViBao**, a programming language that compiles to **HTML, CSS and JavaScript**.
 - 🎮 I enjoy building web applications, developer tools and games.
 - ⚡ Most of what I know comes from building projects.
@@ -25,17 +25,19 @@
 # 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.facebook.com/share/1EXVAmBhCY/">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+
+<a href="https://www.facebook.com/share/1EXVAmBhCY/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40"/>
 </a>
 
-<a href="https://instagram.com/baobei.dev">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<a href="https://instagram.com/baobei.dev" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40"/>
 </a>
 
 <a href="mailto:giabaovu375@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
 </a>
+
 </p>
 
 ---
@@ -50,7 +52,7 @@
 
 # 🚀 Featured Projects
 
-### 🌸 ViBao
+## 🌸 ViBao
 
 A programming language that compiles to **HTML + CSS + JavaScript**.
 
@@ -58,7 +60,7 @@ Currently being rewritten in **Rust**.
 
 ---
 
-### 🎮 Anime-style 3D Web Game
+## 🎮 Anime-style 3D Web Game
 
 Built with **Three.js**.
 
@@ -66,13 +68,13 @@ Features:
 
 - Character animations
 - Combat system
-- Dialogue
+- Dialogue system
 - Multiple scenes
 - Mobile controls
 
 ---
 
-### 🤖 AI Experiments
+## 🤖 AI Experiments
 
 I enjoy experimenting with AI by building small projects and tools.
 
@@ -85,9 +87,9 @@ Some things I've worked on include:
 
 ---
 
-### 🌐 Web Projects
+## 🌐 Web Projects
 
-I enjoy creating modern web applications, useful tools and experimenting with new ideas.
+I enjoy creating modern web applications, useful developer tools and experimenting with new ideas.
 
 ---
 
@@ -108,9 +110,9 @@ I enjoy creating modern web applications, useful tools and experimenting with ne
 ---
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=giabaovu375-alt&style=flat-square&color=blueviolet"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=giabaovu375-alt&color=blueviolet&style=flat)
-
-**Thanks for visiting ❤️**
-
+<p align="center">
+<b>Thanks for visiting my profile ❤️</b>
 </p>
