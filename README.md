@@ -1,28 +1,34 @@
-<div align="center">
+<img align="right" src="https://count.getloli.com/get/@:giabaovu375-alt?theme=moebooru"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Gia+Bao;Building+Projects+for+Fun;Creating+ViBao+Programming+Language;Learning+by+Building" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Gia+Bao;Building+Projects+for+Fun;Creating+ViBao+Programming+Language;Learning+by+Building" />
+</p>
 
 ---
 
 # 👋 About Me
 
-<img align="right" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/nyan-cat.gif"/>
+<img align="right" width="280" src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif"/>
 
-- 🇻🇳 I'm **Gia Bao** from Vietnam.
+- 🇻🇳 I'm **Gia Bao**, from Vietnam.
 - 🎂 12 years old.
 - 💡 I enjoy turning ideas into real projects.
-- 🌱 Currently learning **Computer Science, Computer Graphics, Mathematics and Rust**.
-- 🛠️ Working on **ViBao**, a programming language that compiles to **HTML + CSS + JavaScript**.
+- 🌱 Currently learning **Computer Science, Computer Graphics, Mathematics and Rust.**
+- 🔭 Currently working on **ViBao**, a programming language that compiles to **HTML, CSS and JavaScript**.
 - 🎮 I enjoy building web applications, developer tools and games.
 - ⚡ Most of what I know comes from building projects.
 
 <br>
 
+---
+
 # 🌐 Connect with Me
 
 <p align="left">
+<a href="https://www.facebook.com/share/1EXVAmBhCY/">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+</a>
+
 <a href="https://instagram.com/baobei.dev">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
@@ -37,47 +43,24 @@
 # 🛠 Languages & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=rust"/>
-
-<img src="https://skillicons.dev/icons?i=threejs"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,rust,threejs" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌸 ViBao
+### 🌸 ViBao
 
 A programming language that compiles to **HTML + CSS + JavaScript**.
 
 Currently being rewritten in **Rust**.
 
-Repository:
-https://github.com/giabaovu375-alt/ViBao
-
 ---
 
-## 🎮 Anime-style 3D Web Game
+### 🎮 Anime-style 3D Web Game
 
-Built with **Three.js**
+Built with **Three.js**.
 
 Features:
 
@@ -89,34 +72,45 @@ Features:
 
 ---
 
-## 🌐 Web Projects
+### 🤖 AI Experiments
+
+I enjoy experimenting with AI by building small projects and tools.
+
+Some things I've worked on include:
+
+- Token prediction experiments
+- AI training datasets
+- Multi-API tools
+- Local AI utilities
+
+---
+
+### 🌐 Web Projects
 
 I enjoy creating modern web applications, useful tools and experimenting with new ideas.
 
 ---
 
-# 📈 GitHub Stats
+# 💻 Most Used Languages
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=giabaovu375-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giabaovu375-alt&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giabaovu375-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 📊 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=giabaovu375-alt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=giabaovu375-alt&theme=tokyo-night"/>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ![](https://komarev.com/ghpvc/?username=giabaovu375-alt&color=blueviolet&style=flat)
 
-**Thanks for visiting! ⭐**
+**Thanks for visiting ❤️**
 
-</div>
+</p>
