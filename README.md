@@ -1,66 +1,63 @@
-<img align="right" src="https://count.getloli.com/get/@:giabaovu375-alt?theme=moebooru"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Gia+Bao;Building+Projects+for+Fun;Creating+ViBao+Programming+Language;Learning+by+Building" />
-</p>
+<h1 align="center">Hi 👋, I'm Gia Bao</h1>
+<h3 align="center">A developer who enjoys building creative projects.</h3>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-<img align="right" width="280" src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif"/>
+<img align="right" width="300" src="https://media.tenor.com/2roX3uxz_68AAAAC/coding.gif"/>
 
-- 🇻🇳 I'm **Gia Bao**, from Vietnam.
+- 🇻🇳 I'm **Gia Bao** from Vietnam.
 - 🎂 12 years old.
 - 💡 I enjoy turning ideas into real projects.
-- 🌱 Currently learning **Computer Science, Computer Graphics, Mathematics and Rust**.
+- 🌱 Currently learning **Computer Science, Computer Graphics, Rust and Mathematics**.
 - 🔭 Currently working on **ViBao**, a programming language that compiles to **HTML, CSS and JavaScript**.
-- 🎮 I enjoy building web applications, developer tools and games.
+- 🎮 I enjoy building web applications, programming languages, developer tools and games.
 - ⚡ Most of what I know comes from building projects.
 
 <br>
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
 
 <a href="https://www.facebook.com/share/1EXVAmBhCY/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35"/>
 </a>
 
 <a href="https://instagram.com/baobei.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35"/>
 </a>
 
 <a href="mailto:giabaovu375@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="35"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,rust,threejs" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌸 ViBao
+### 🌸 ViBao
 
-A programming language that compiles to **HTML + CSS + JavaScript**.
+A programming language that compiles to **HTML, CSS and JavaScript**.
 
 Currently being rewritten in **Rust**.
 
 ---
 
-## 🎮 Anime-style 3D Web Game
+### 🎮 Anime-style 3D Web Game
 
 Built with **Three.js**.
 
@@ -74,7 +71,7 @@ Features:
 
 ---
 
-## 🤖 AI Experiments
+### 🤖 AI Experiments
 
 I enjoy experimenting with AI by building small projects and tools.
 
@@ -87,24 +84,16 @@ Some things I've worked on include:
 
 ---
 
-## 🌐 Web Projects
+### 🌐 Other Projects
 
-I enjoy creating modern web applications, useful developer tools and experimenting with new ideas.
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giabaovu375-alt&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+I enjoy creating web applications, developer tools and experimenting with new ideas.
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giabaovu375-alt&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=giabaovu375-alt&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
