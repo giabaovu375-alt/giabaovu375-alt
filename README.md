@@ -71,19 +71,6 @@ Features:
 
 ---
 
-### 🤖 AI Experiments
-
-I enjoy experimenting with AI by building small projects and tools.
-
-Some things I've worked on include:
-
-- Token prediction experiments
-- AI training datasets
-- Multi-API tools
-- Local AI utilities
-
----
-
 ### 🌐 Other Projects
 
 I enjoy creating web applications, developer tools and experimenting with new ideas.
