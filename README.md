@@ -11,7 +11,7 @@
 - 🎂 12 years old.
 - 💡 I enjoy turning ideas into real projects.
 - 🌱 Currently learning **Computer Science, Computer Graphics, Rust and Mathematics**.
-- 🔭 Currently working on **ViBao**, a programming language that compiles to **HTML, CSS and JavaScript**.
+- 🔭 Currently working on **ViBao**, a transpiler supporting **multilingual programming keywords**.
 - 🎮 I enjoy building web applications, programming languages, developer tools and games.
 - ⚡ Most of what I know comes from building projects.
 
@@ -51,9 +51,9 @@
 
 ### 🌸 ViBao
 
-A programming language that compiles to **HTML, CSS and JavaScript**.
+A transpiler supporting **multilingual programming keywords**.
 
-Currently being rewritten in **Rust**.
+Currently under active development.
 
 ---
 
